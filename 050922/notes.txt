@@ -1,0 +1,35 @@
+https://www.youtube.com/watch?v=7eh4d6sabA0
+
+identifying a dog from a different angle example
+is it a cat, then later, is it a cat or a dog - must rewrite
+
+machine learning steps
+import the data
+clean the data - no duplicates or irrelevant
+split the data into training / test sets
+create a model
+train the model
+make predictions
+evaluate and improve
+
+tools / libraries
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
+
+jupyter shortcuts:
+esc is command mode
+a - adds above
+b - adds below
+d x 2 - deletes a cell
+shift + tab - tooltip
+ctrl + enter - runs the cell
+
+calculating accuracy
+70-80% for training 20-30% for testing
+
+persisting models
+
+
